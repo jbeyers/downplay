@@ -37,4 +37,4 @@ It will create a 'downloads' folder in the current folder, and add another folde
 
 You can also use the --playlist option to specify the playlist url, and the --target option to specify the name of the target folder on the commandline.
 
-type `python downplay.py --help` for a listing of the options.
+Type `python downplay.py --help` for a listing of the options.
